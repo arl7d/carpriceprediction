@@ -1,2 +1,2 @@
 # carpriceprediction
-guided by Krish Naik
+guided by Krish Naik on youtube
